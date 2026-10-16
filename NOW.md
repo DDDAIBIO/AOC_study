@@ -5,7 +5,7 @@
 ## 今天要做（2026-10-16 · D1）
 
 - [x] 建知识库骨架 + 首次提交
-- [x] 仓库推送到 GitHub（AOC_study，首次 push 因远端 Initial commit 被拒，已用 merge -X ours 解决）
+- [x] 仓库推送到 GitHub（远端现为 `oligo-kb-202610`，从 AOC_study 改名/迁移；首次 push 因远端 Initial commit 被拒，已用 merge -X ours 解决；D1 commit `b287930` 待 push，已切 origin 到新 URL）
 - [x] Nusinersen（Spinraza）说明书已抓取整理 → `99_原料/Nusinersen_Spinraza_label_要点.md`
 - [ ] 下载 Khvorova & Watts 2017 综述 PDF 到 `99_原料/`（PMC5517098）
 - [ ] 读摘要 + Figure 1（10 min，不求全懂）
