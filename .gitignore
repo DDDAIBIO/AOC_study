@@ -1,0 +1,36 @@
+# 数据与大文件
+99_原料/**/*.fastq
+99_原料/**/*.fq.gz
+99_原料/**/*.bam
+99_原料/**/*.bigWig
+99_原料/**/*_large*
+*.h5
+*.pt
+*.pkl
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 环境变量与密钥
+.env
+*.token
+
+# 临时
+tmp/
+scratch/
