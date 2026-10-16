@@ -15,13 +15,16 @@
 
 ---
 
-## 下次从这继续（D2 · 周六 10-17 · ASO 机制，2h）
+## 🔵 D2 进行中（ASO 机制 · 2h，提前启动）
 
-- 主读 Khvorova & Watts 2017 的 **ASO 章节**，搞清两条线：
-  - **RNase H 降解（gapmer）**：为什么中间必须是 DNA gap、翼部必须是修饰 RNA
-  - **剪接调控（立体位阻）**：Nusinersen 如何让 SMN2 带上 exon 7、产出全长 SMN 蛋白
-- 案例拆解 1/3：Nusinersen —— 材料已在 `99_原料/Nusinersen_Spinraza_label_要点.md`
-- 产出：`02_技术方案/ASO机制笔记_v0.md` + 对比表第 1 行
+> 两个机制的讲解图已给过，笔记骨架已建好：**`02_技术方案/ASO机制笔记_v0.md`**
+
+- [x] 骨架笔记 + 案例拆解 + 对比表第 1 行 + 自检答案（已入库）
+- [ ] **主读** Khvorova & Watts 2017 的 ASO 章节，核验笔记里标【待核验】的两条
+- [ ] 对照 Nusinersen label 自己算一遍 3 个数字（18-mer / 半衰期 / 7.5 kDa）
+- [ ] 回答"为什么靶点是内含子而不是 exon 7"（自检第 4 题）
+- [ ] 术语表补 2 条（建议：ISS-N1 / 立体位阻 steric block）
+- [ ] commit + Sync
 
 ### D2 拆解时这几个数字值得自己先算一遍（label 里有）
 
